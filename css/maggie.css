@@ -1,0 +1,34 @@
+ 
+/******************TAG SELECTORS********************************/ 
+ 
+h1 {
+    color: red;
+    font-size: 200px;
+}
+
+
+img {
+    background-color: red;
+}
+
+
+
+/***************************CLASS SELECTORS****************************/
+
+.burger {
+    background-color: green;
+    border-radius: 100px;
+}
+.circular {
+    border-radius: 100%;
+}
+
+.pizza {
+    background-color: red;
+}
+
+/**********************ID SELECTORS******************************/
+
+#heading {
+    color: blue;
+}
